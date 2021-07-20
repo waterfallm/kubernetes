@@ -1,18 +1,18 @@
-# kubernetes
+# Kubernetes
 
-kubernetes LAB install notes
+##Kubernetes LAB install notes
 
 PI4 Cluster(k3s)
-*OS Setup
-*k3s Install
+* OS Setup
+* k3s Install
 
 VM Ubuntu Cluster(k8s) 
-*OS Setup
+* OS Setup
 
 Rancher Setup
-*OS Setup
-*Rancher Install
-*Import Clusters
+* OS Setup
+* Rancher Install
+* Import Clusters
 
 Rancher CD Setup
-*
+* 
